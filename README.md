@@ -2,7 +2,9 @@
 
 Scripts to create Kraken2 database of PAFTOL V2.0 Angio353 genes. An excellent database for taxonomic identification of plants. 
 
-https://treeoflife.kew.org/ #https://github.com/DerrickWood/kraken2/wiki
+https://treeoflife.kew.org/ 
+
+https://github.com/DerrickWood/kraken2/wiki
 
 Prior to using this script, download and install kraken2 and make sure it is working and in your PATH.
 
