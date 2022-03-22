@@ -10,7 +10,7 @@ Prior to using this script, download and install kraken2 and make sure it is wor
 
 Make sure the location of the python scripts used below are also in your PATH 
 
-After building the DB, the scripts kraken2paired.py and top_taxa.py can be used to identify taxonomy of unknown samples.
+After building the DB with kraken2_paftol_DB.sh, the scripts kraken2paired.py and top_taxa.py can be used to identify taxonomy of unknown samples.
 
 e.g.
 
