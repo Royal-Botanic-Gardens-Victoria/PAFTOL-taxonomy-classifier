@@ -1,4 +1,3 @@
-# Kraken2-Taxonomic-identification-with-PAFTOL-Angio353-genes
 
 Scripts to create Kraken2 database of PAFTOL V2.0 Angio353 genes. An excellent database for taxonomic identification of plants. 
 
