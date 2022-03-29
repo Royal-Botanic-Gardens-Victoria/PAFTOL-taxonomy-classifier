@@ -16,3 +16,5 @@ e.g.
 kraken2paired.py "reads/*.fastq" kraken_results/ 0 24 kraken2_paftol2/
 
 top_taxa.py "kraken_results/*" kraken.out
+
+See usage instrucions in each script for more information.
